@@ -1,3 +1,12 @@
+-- TASK
+-- 01. Creating a Database Name 'DBMS_COURSE'
+-- 02. Creating a Table Name 'STUDENT_FEE'
+-- 03. Insert some Values into 'STUDENT_FEE' Table
+-- 04. Query for FEES>10000 and TEAM not equals A
+-- Reference Slide : Q01.Create & Insert into a Table.png
+
+
+
 -- DROP DATABASE
 	-- DBMS_COURSE;
     
